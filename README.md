@@ -52,6 +52,6 @@ Everybody will have a part in the presentation
 - Secondary: Can help with documentation
 
 
-## Sena Kavukçu
+## Sena Kavukcu
 - Primary: Project report, Interface design, student, teacher, parent parts, authentication login system
 - Secondary: UML diagrams and documentation
