@@ -27,8 +27,8 @@ ReactJS for front end design (Check out grommet aswell)
 HTML, CSS for front end also
 MySql for database
 
-##Things to Keep in Mind
-
+## Things to Keep in Mind
+Everybody will have a part in the presentation
 
 
 ## Ahmet Genç
